@@ -1,0 +1,10 @@
+file:/opt/homebrew/etc/gitconfig	credential.helper=osxkeychain
+file:/Users/adrianogs/.gitconfig	user.name=Adrian Garcia
+file:/Users/adrianogs/.gitconfig	user.email=gsadrian7@gmail.com
+file:/Users/adrianogs/.gitconfig	core.editor=code --wait
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.ignorecase=true
+file:.git/config	core.precomposeunicode=true
